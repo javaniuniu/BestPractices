@@ -1,8 +1,8 @@
 package entity;
 
 public class Money {
-    public float payNum;
-    public String payTime;
+    private float payNum;
+    private String payTime;
 
     public float getPayNum() {
         return payNum;

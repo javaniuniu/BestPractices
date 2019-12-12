@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BestPractices.iml" filepath="$PROJECT_DIR$/.idea/BestPractices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/switchEnum/switchEnum.iml" filepath="$PROJECT_DIR$/switchEnum/switchEnum.iml" />
     </modules>
   </component>
