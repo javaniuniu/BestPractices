@@ -1,4 +1,4 @@
-package entity;
+package beans;
 
 public class Money {
     private float payNum;
