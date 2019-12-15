@@ -7,6 +7,6 @@ import throwerrors.InvalidEmployeeType;
 
 
 public interface EmployeeFactory {
-    public Employee makeEmployee(EmployeeRecord r) throws InvalidEmployeeType;
+    Employee makeEmployee(EmployeeRecord r) throws InvalidEmployeeType;
 }
 

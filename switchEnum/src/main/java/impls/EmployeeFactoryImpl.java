@@ -25,10 +25,4 @@ public class EmployeeFactoryImpl implements EmployeeFactory {
                 throw new InvalidEmployeeType(employeeTpye);
         }
     }
-
-    // TODO: 2019-12-11 通过junit 实现测试
-    public static void main(String[] args) throws InvalidEmployeeType {
-        EmployeeFactoryImpl s = new EmployeeFactoryImpl();
-        s.makeEmployee(EmployeeRecord.COMMISSIONED);
-    }
 }
